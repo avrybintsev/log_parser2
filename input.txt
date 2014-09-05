@@ -1,0 +1,13 @@
+1390950160808136	0	StartRequest
+1390950160810164	0	BackendConnect	0	http://backend0-001.yandex.ru:1963/search?
+1390950160810179	0	BackendConnect	1	http://backend1-001.yandex.ru:1085/search?
+1390950160841530	0	BackendRequest	0
+1390950160938308	0	BackendRequest	1
+1390950160948308	0	BackendOk	1
+1390950161841530	0	BackendError	0	Request Timeout
+1390950161842604	0	BackendConnect	0	http://backend0-002.yandex.ru:1126/search?
+1390950161928218	0	BackendRequest	0
+1390950162464394	0	BackendOk	0
+1390950162475798	0	StartMerge
+1390950162536865	0	StartSendResult
+1390950162890134	0	FinishRequest
